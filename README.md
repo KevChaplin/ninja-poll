@@ -1,4 +1,4 @@
-# Ninja PollList
+# Ninja Poll
 ## Not own work - follow-along YouTube tutorial from the Net Ninja
 ### https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
 
